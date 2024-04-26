@@ -1,1 +1,1 @@
-# cub3D
+raycasting ile yaptığımız minik bir oyun..
